@@ -1,0 +1,83 @@
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\csc.exe
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\csc.exe.config
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\csc.rsp
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\csi.exe
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\csi.rsp
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.AppContext.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.IO.FileSystem.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\vbc.exe
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\vbc.exe.config
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\vbc.rsp
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\VBCSCompiler.exe
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\RestWSExample.dll.config
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\RestWSExample.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\RestWSExample.pdb
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\Newtonsoft.Json.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Net.Http.Formatting.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Web.Http.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Web.Http.WebHost.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\Newtonsoft.Json.xml
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Net.Http.Formatting.xml
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Web.Http.xml
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Web.Http.WebHost.xml
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\obj\Debug\RestWSExample.csprojResolveAssemblyReference.cache
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\obj\Debug\RestWSExample.dll
+c:\users\aç beni\documents\visual studio 2017\Projects\RestWSExample\RestWSExample\obj\Debug\RestWSExample.pdb
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\csc.exe
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\csc.exe.config
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\csc.rsp
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\csi.exe
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\csi.rsp
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.AppContext.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\vbc.exe
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\vbc.exe.config
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\vbc.rsp
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\RestWSExample.dll.config
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\RestWSExample.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\RestWSExample.pdb
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\Newtonsoft.Json.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Net.Http.Formatting.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Web.Http.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Web.Http.WebHost.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\Newtonsoft.Json.xml
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Net.Http.Formatting.xml
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Web.Http.xml
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\bin\System.Web.Http.WebHost.xml
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\obj\Debug\RestWSExample.dll
+C:\Users\Tanju\Documents\Visual Studio 2017\Projects\RestWSExample\RestWSExample\obj\Debug\RestWSExample.pdb
