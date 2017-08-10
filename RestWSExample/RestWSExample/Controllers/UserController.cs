@@ -9,5 +9,10 @@ namespace RestWSExample.Controllers
 {
     public class UserController : ApiController
     {
+        [HttpGet]
+        public string checkPassword()
+        {
+            return "ok";
+        }
     }
 }
