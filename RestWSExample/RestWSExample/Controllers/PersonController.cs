@@ -22,7 +22,7 @@ namespace RestWSExample.Controllers
             List<Person> prsns = new List<Person>();
             prsns.Add(new Person { name = "tanju", surname = "vonal" });
             prsns.Add(new Person { name = "ali", surname = "veli" });
-            prsns.Add(new Person { name = "ali3", surname = "veli3" });
+            prsns.Add(new Person { name = "ali4", surname = "veli3" });
             return prsns;
         }
     }
